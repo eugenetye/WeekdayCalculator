@@ -10,3 +10,7 @@ Three scenarios will be encountered in this program:
 3. The user's birthdate and reference date are both in the same year. In this case, no years are involved in the calculation.
 
 *The user's birthdate is assumed to be greater than the reference date.*
+
+## Example
+` This program is used to find  
+
