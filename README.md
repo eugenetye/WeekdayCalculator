@@ -12,5 +12,5 @@ Three scenarios will be encountered in this program:
 *The user's birthdate is assumed to be greater than the reference date.*
 
 ## Example
-` This program is used to find  
+![](output.png)
 
