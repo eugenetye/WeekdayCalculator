@@ -12,5 +12,6 @@ Three scenarios will be encountered in this program:
 *The user's birthdate is assumed to be greater than the reference date.*
 
 ## Example output
-![](output.png)
+![output](https://user-images.githubusercontent.com/105037989/167958132-01968b41-a388-4bc6-865a-c8d9e104583b.png)
+
 
